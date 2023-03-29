@@ -11,12 +11,9 @@ I'm currently learning Spring Boot, and MySQL, with the goal of developing robus
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GroupHextech&repo=HEXTECH-API4sem&theme=radical)](https://github.com/GroupHextech/HEXTECH-API4sem)
 - Creating a web system for the customer EMBRAER S.A.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GroupHextech&repo=HEXTECH-API3sem&theme=radical)](https://github.com/GroupHextech/HEXTECH-API3sem)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GroupHextech&repo=HEXTECH-API3sem&theme=radical)](https://github.com/GroupHextech/HEXTECH-API3sem) 
 - Creating a web system for the customer IACIT Soluções Tecnológicas S.A.
-<!--
-- [Project 2](link to project): short description of project
-- [Project 3](link to project): short description of project
--->
+
 
 ## 🤝 Connect with me
 
