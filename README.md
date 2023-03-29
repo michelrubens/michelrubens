@@ -8,10 +8,11 @@ I'm currently learning Spring Boot, and MySQL, with the goal of developing robus
 
 ## 💻 Projects
 
-- [4th-semester database project at FATEC](https://github.com/GroupHextech/HEXTECH-API4sem)
-  -  Creating a web system for the customer EMBRAER S.A.
-- [3rd-semester database project at FATEC](https://github.com/GroupHextech/HEXTECH-API3sem)
-  -  Creating a web system for the customer IACIT Soluções Tecnológicas S.A.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GroupHextech&repo=HEXTECH-API4sem&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- Creating a web system for the customer EMBRAER S.A.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GroupHextech&repo=HEXTECH-API3sem&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- Creating a web system for the customer IACIT Soluções Tecnológicas S.A.
 <!--
 - [Project 2](link to project): short description of project
 - [Project 3](link to project): short description of project
@@ -28,6 +29,8 @@ Feel free to reach out to me if you want to chat about database, collaborate on 
 [![michelrubens's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelrubens&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Top Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelrubens&hide_progress=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - HTML/CSS
 - JavaScript
