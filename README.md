@@ -10,6 +10,8 @@ I'm currently learning Spring Boot, and MySQL, with the goal of developing robus
 
 - [4th-semester database project at FATEC](https://github.com/GroupHextech/HEXTECH-API4sem)
   -  Creating a web system for the customer EMBRAER S.A.
+- [3rd-semester database project at FATEC](https://github.com/GroupHextech/HEXTECH-API3sem)
+  -  Creating a web system for the customer IACIT Soluções Tecnológicas S.A.
 <!--
 - [Project 2](link to project): short description of project
 - [Project 3](link to project): short description of project
