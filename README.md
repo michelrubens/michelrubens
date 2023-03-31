@@ -27,7 +27,7 @@ Feel free to reach out to me if you want to chat about database, collaborate on 
 
 ## 🌟 Top Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelrubens&hide_progress=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelrubens&hide_progress=false&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - HTML/CSS
 - JavaScript
