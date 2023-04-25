@@ -8,11 +8,20 @@ I'm currently learning Spring Boot, and MySQL, with the goal of developing robus
 
 ## 💻 Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GroupHextech&repo=HEXTECH-API4sem&theme=radical)](https://github.com/GroupHextech/HEXTECH-API4sem)
-- Creating a web system for the customer EMBRAER S.A.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GroupHextech&repo=HEXTECH-API3sem&theme=radical)](https://github.com/GroupHextech/HEXTECH-API3sem) 
-- Creating a web system for the customer IACIT Soluções Tecnológicas S.A.
+<div style="display: flex; justify-content: center;">
+  <div>
+    <a href="https://github.com/GroupHextech/HEXTECH-API4sem">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GroupHextech&repo=HEXTECH-API4sem&theme=radical" alt="Readme Card">
+    </a>
+    <p>Creating a web system for the customer EMBRAER S.A.</p>
+  </div>
+  <div>
+    <a href="https://github.com/GroupHextech/HEXTECH-API3sem">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GroupHextech&repo=HEXTECH-API3sem&theme=radical" alt="Readme Card">
+    </a>
+    <p>Creating a web system for the customer IACIT Soluções Tecnológicas S.A.</p>
+  </div>
+</div>
 
 
 ## 🤝 Connect with me
@@ -25,7 +34,7 @@ Feel free to reach out to me if you want to chat about database, collaborate on 
 
 ## 📈 GitHub Stats
 
-[![michelrubens's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelrubens&show_icons=true&theme=radical&repo=github-readme-stats&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![michelrubens's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelrubens&show_icons=true&theme=radical&repo=github-readme-stats&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌟 Top Skills
 
