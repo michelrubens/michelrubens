@@ -48,6 +48,12 @@ Feel free to reach out to me if you want to chat about database, collaborate on 
 
 [![michelrubens's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelrubens&show_icons=true&theme=radical&repo=github-readme-stats&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--- trophy (start) -->
+<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+  <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=michelrubens&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+</a>
+<!--- trophy (start) -->
+
 ## 🌟 Top Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelrubens&hide_progress=false&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
