@@ -58,6 +58,6 @@ Feel free to reach out to me if you want to chat about database, collaborate on 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelrubens&hide_progress=false&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,java,cpp&perline=10)
+![Top Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,java,cpp,mongodb&perline=10)
 
 Thanks for stopping by!
