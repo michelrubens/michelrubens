@@ -1,63 +1,140 @@
-# Hi there 👋
+# 👋 Hello, I'm Michel Rubens
 
-I'm Michel, a database student at FATEC São José dos Campos. I have experience in HTML, CSS, JavaScript, Vue.js, React, and Java.
+🎓 Graduate in Database Technology – FATEC São José dos Campos  
+🎓 Software Development Multiplatform Student – FATEC Jacareí  
+💻 Junior Software Developer | Full-Stack
+📍 Brazil 
 
-## 🌱 I’m currently learning
+🚀 Passionate about building complete and scalable software solutions
 
-I'm currently learning Spring Boot, and MySQL, with the goal of developing robust and scalable web applications.
+Currently seeking a Junior / Trainee opportunity in Software Development.
 
-## 💻 Projects
+---
 
-<div style="display: flex; justify-content: center;">
-  <div>
-    <a href="https://github.com/GroupHextech/HEXTECH-API6sem">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GroupHextech&repo=HEXTECH-API6sem&theme=radical" alt="Readme Card">
-    </a>
-    <p>Creating a web system for the customer Imagem</p>
-  </div>
-  <div>
-    <a href="https://github.com/GroupHextech/HEXTECH-API5sem">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GroupHextech&repo=HEXTECH-API5sem&theme=radical" alt="Readme Card">
-    </a>
-    <p>Creating a web system for the customer Oracle</p>
-  </div>
-  <div>
-    <a href="https://github.com/GroupHextech/HEXTECH-API4sem">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GroupHextech&repo=HEXTECH-API4sem&theme=radical" alt="Readme Card">
-    </a>
-    <p>Creating a web system for the customer EMBRAER S.A.</p>
-  </div>
-  <div>
-    <a href="https://github.com/GroupHextech/HEXTECH-API3sem">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=GroupHextech&repo=HEXTECH-API3sem&theme=radical" alt="Readme Card">
-    </a>
-    <p>Creating a web system for the customer IACIT Soluções Tecnológicas S.A.</p>
-  </div>
-</div>
+## 🧠 About Me
 
+Developer with strong foundations in databases and back-end development, expanding across the full stack.
 
-## 🤝 Connect with me
+Experience building enterprise-level systems in partnership with real companies, working in SCRUM environments and delivering solutions aligned with real business needs.
+
+---
+
+## 🔄 Agile & Leadership Experience
+
+During my academic projects at FATEC:
+
+- ⚙️ Worked in all projects using **SCRUM**
+- 👨‍💼 Acted as **Scrum Master**
+- 📌 Acted as **Product Owner**
+- 👨‍💻 Contributed mainly as **Front-End Developer**
+- 🔧 Also collaborated on Back-End and database modeling
+
+This experience helped me develop:
+
+- Communication and leadership skills  
+- Product vision and prioritization mindset  
+- Team collaboration in agile environments  
+- Responsibility for deliveries and sprint planning  
+
+---
+
+# 🎓 Academic Projects – FATEC São José dos Campos
+
+Below are academic projects developed in partnership with real companies, applying SCRUM methodology and delivering solutions aligned with real business challenges.
+
+---
+
+## 🏢 6th Semester – Imagem (Esri Official Distributor – Brazil)
+
+🔗 https://github.com/GroupHextech/HEXTECH-API6sem  
+
+🖥️ Full Front-End development (React)  
+🔐 Two-Factor Authentication (Google Authenticator)  
+📊 Interactive dashboards and advanced data filters  
+🔌 Back-End collaboration (Python + MongoDB)  
+🛡️ LGPD compliance features implementation  
+
+---
+
+## 🏢 5th Semester – Oracle Corporation
+
+🔗 https://github.com/GroupHextech/HEXTECH-API5sem  
+
+📌 Product Owner role (backlog and prioritization)  
+🎨 Front-End development with Vue 3  
+🔗 REST API integration  
+🗄️ Database modeling (MySQL)  
+⚙️ CI/CD and branch strategy collaboration  
+
+---
+
+## 🏢 4th Semester – EMBRAER S.A.
+
+🔗 https://github.com/GroupHextech/HEXTECH-API4sem  
+
+👨‍💼 Scrum Master role  
+🎨 Front-End development with Vue 3 + TypeScript  
+🔐 Authentication and permission levels  
+🔌 API integration with Spring Boot  
+📐 Focus on usability and data consistency  
+
+---
+
+## 🏢 3rd Semester – IACIT Soluções Tecnológicas S.A.
+
+🔗 https://github.com/GroupHextech/HEXTECH-API3sem  
+
+💻 Web application development  
+🌦️ Integration with external meteorological APIs  
+🗄️ Database modeling with PostgreSQL  
+🔌 Back-End development using Spring Boot  
+🔄 Agile development cycles (SCRUM)  
+
+---
+
+# 📂 Complete Academic Portfolio
+
+📘 Full documentation and detailed descriptions:  
+👉 https://github.com/michelrubens/portfolio-projeto-integrador-fatec  
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Languages
+HTML • CSS • JavaScript • Java • Python • C  
+
+### 🎨 Front-End
+Vue.js • React  
+
+### ⚙️ Back-End
+Spring Boot • REST APIs  
+
+### 🗄️ Databases
+MySQL • MongoDB  
+
+### 🔧 Tools
+Git • GitHub • SCRUM • MVC
+
+---
+
+# 🎯 Professional Goal
+
+To grow as a **Software Engineer**, combining:
+
+- Technical depth in Back-End and Databases  
+- Strong Front-End skills  
+- Agile mindset  
+- Product-oriented thinking  
+
+---
+
+# 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michelrubens)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/michelrubens)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michelrube+fromgithub@gmail.com)
 
-Feel free to reach out to me if you want to chat about database, collaborate on a project, or just say hi!
+---
 
-## 📈 GitHub Stats
-
-[![michelrubens's GitHub stats](https://github-readme-stats.vercel.app/api?username=michelrubens&show_icons=true&theme=radical&repo=github-readme-stats&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--- trophy (start) -->
-<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-  <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=michelrubens&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-</a>
-<!--- trophy (start) -->
-
-## 🌟 Top Skills
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelrubens&hide_progress=false&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,java,c,py,mongodb&perline=10)
-
-Thanks for stopping by!
+⭐ Always learning. Always building. Always improving.
