@@ -95,7 +95,7 @@ Below are academic projects developed in partnership with real companies, applyi
 # 📂 Complete Academic Portfolio
 
 📘 Full documentation and detailed descriptions:  
-👉 https://github.com/michelrubens/portfolio-projeto-integrador-fatec  
+👉 https://github.com/michelrubens/portfolio  
 
 ---
 
