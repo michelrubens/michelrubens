@@ -1,135 +1,135 @@
-# 👋 Hello, I'm Michel Rubens
+# 👋 Oi, eu sou o Michel!
 
-🎓 Graduate in Database Technology – FATEC São José dos Campos  
-🎓 Software Development Multiplatform Student – FATEC Jacareí  
-💻 Junior Software Developer | Full-Stack
-📍 Brazil 
+🎓 Tecnólogo em Banco de Dados – FATEC São José dos Campos  
+🎓 Estudante de Desenvolvimento de Software Multiplataforma – FATEC Jacareí  
+💻 Desenvolvedor de Software Júnior | Full-Stack  
+📍 São José dos Campos - SP, Brasil  
 
-🚀 Passionate about building complete and scalable software solutions
+🚀 Apaixonado por construir soluções de software completas e escaláveis.
 
-Currently seeking a Junior / Trainee opportunity in Software Development.
-
----
-
-## 🧠 About Me
-
-Developer with strong foundations in databases and back-end development, expanding across the full stack.
-
-Experience building enterprise-level systems in partnership with real companies, working in SCRUM environments and delivering solutions aligned with real business needs.
+Atualmente em busca de oportunidades como Desenvolvedor de Software Júnior / Trainee.
 
 ---
 
-## 🔄 Agile & Leadership Experience
+## 🧠 Sobre Mim
 
-During my academic projects at FATEC:
+Desenvolvedor com base sólida em bancos de dados e desenvolvimento back-end, expandindo conhecimentos para o stack completo (full-stack).
 
-- ⚙️ Worked in all projects using **SCRUM**
-- 👨‍💼 Acted as **Scrum Master**
-- 📌 Acted as **Product Owner**
-- 👨‍💻 Contributed mainly as **Front-End Developer**
-- 🔧 Also collaborated on Back-End and database modeling
-
-This experience helped me develop:
-
-- Communication and leadership skills  
-- Product vision and prioritization mindset  
-- Team collaboration in agile environments  
-- Responsibility for deliveries and sprint planning  
+Experiência na construção de sistemas de nível corporativo em parceria com empresas reais, trabalhando com metodologia **SCRUM** e entregando soluções alinhadas às necessidades de negócio.
 
 ---
 
-# 🎓 Academic Projects – FATEC São José dos Campos
+## 🔄 Experiência em Agile & Liderança
 
-Below are academic projects developed in partnership with real companies, applying SCRUM methodology and delivering solutions aligned with real business challenges.
+Durante meus projetos acadêmicos na FATEC:
 
----
+- ⚙️ Trabalhei em todos os projetos utilizando **SCRUM**
+- 👨‍💼 Atuei como **Scrum Master**
+- 📌 Atuei como **Product Owner**
+- 👨‍💻 Contribuí principalmente como **Desenvolvedor Front-End**
+- 🔧 Também colaborei no Back-End e modelagem de dados
 
-## 🏢 6th Semester – Imagem (Esri Official Distributor – Brazil)
+Essa experiência me ajudou a desenvolver:
 
-🔗 https://github.com/GroupHextech/HEXTECH-API6sem  
-
-🖥️ Full Front-End development (React)  
-🔐 Two-Factor Authentication (Google Authenticator)  
-📊 Interactive dashboards and advanced data filters  
-🔌 Back-End collaboration (Python + MongoDB)  
-🛡️ LGPD compliance features implementation  
-
----
-
-## 🏢 5th Semester – Oracle Corporation
-
-🔗 https://github.com/GroupHextech/HEXTECH-API5sem  
-
-📌 Product Owner role (backlog and prioritization)  
-🎨 Front-End development with Vue 3  
-🔗 REST API integration  
-🗄️ Database modeling (MySQL)  
-⚙️ CI/CD and branch strategy collaboration  
+- Habilidades de comunicação e liderança  
+- Mentalidade de visão de produto e priorização  
+- Colaboração em equipe em ambientes ágeis  
+- Responsabilidade por entregas e planejamento de sprints  
 
 ---
 
-## 🏢 4th Semester – EMBRAER S.A.
+# 🎓 Projetos Acadêmicos – FATEC São José dos Campos
 
-🔗 https://github.com/GroupHextech/HEXTECH-API4sem  
-
-👨‍💼 Scrum Master role  
-🎨 Front-End development with Vue 3 + TypeScript  
-🔐 Authentication and permission levels  
-🔌 API integration with Spring Boot  
-📐 Focus on usability and data consistency  
+Abaixo estão os projetos acadêmicos desenvolvidos em parceria com empresas reais, aplicando a metodologia SCRUM e entregando soluções para desafios reais do mercado.
 
 ---
 
-## 🏢 3rd Semester – IACIT Soluções Tecnológicas S.A.
+## 🏢 6º Semestre – Imagem (Distribuidora Oficial Esri – Brasil)
 
-🔗 https://github.com/GroupHextech/HEXTECH-API3sem  
+🔗 [Link do Projeto](https://github.com/GroupHextech/HEXTECH-API6sem)  
 
-💻 Web application development  
-🌦️ Integration with external meteorological APIs  
-🗄️ Database modeling with PostgreSQL  
-🔌 Back-End development using Spring Boot  
-🔄 Agile development cycles (SCRUM)  
+🖥️ Desenvolvimento completo de Front-End (React)  
+🔐 Autenticação de dois fatores (Google Authenticator)  
+📊 Dashboards interativos e filtros de dados avançados  
+🔌 Colaboração no Back-End (Python + MongoDB)  
+🛡️ Implementação de funcionalidades em conformidade com a LGPD  
 
 ---
 
-# 📂 Complete Academic Portfolio
+## 🏢 5º Semestre – Oracle Corporation
 
-📘 Full documentation and detailed descriptions:  
-👉 https://github.com/michelrubens/portfolio  
+🔗 [Link do Projeto](https://github.com/GroupHextech/HEXTECH-API5sem)  
+
+📌 Atuação como Product Owner (backlog e priorização)  
+🎨 Desenvolvimento Front-End com Vue 3  
+🔗 Integração de APIs REST  
+🗄️ Modelagem de banco de dados (MySQL)  
+⚙️ Colaboração em estratégias de branch e CI/CD  
+
+---
+
+## 🏢 4º Semestre – EMBRAER S.A.
+
+🔗 [Link do Projeto](https://github.com/GroupHextech/HEXTECH-API4sem)  
+
+👨‍💼 Atuação como Scrum Master  
+🎨 Desenvolvimento Front-End com Vue 3 + TypeScript  
+🔐 Autenticação e níveis de permissão  
+🔌 Integração de API com Spring Boot  
+📐 Foco em usabilidade e consistência de dados  
+
+---
+
+## 🏢 3º Semestre – IACIT Soluções Tecnológicas S.A.
+
+🔗 [Link do Projeto](https://github.com/GroupHextech/HEXTECH-API3sem)  
+
+💻 Desenvolvimento de aplicação web  
+🌦️ Integração com APIs meteorológicas externas  
+🗄️ Modelagem de banco de dados com PostgreSQL  
+🔌 Desenvolvimento Back-End utilizando Spring Boot  
+🔄 Ciclos de desenvolvimento ágil (SCRUM)  
+
+---
+
+# 📂 Portfólio Acadêmico Completo
+
+📘 Documentação completa e descrições detalhadas:  
+👉 [Acesse meu Portfólio](https://github.com/michelrubens/portfolio)  
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Languages
+### 💻 Linguagens
 HTML • CSS • JavaScript • Java • Python • C  
 
 ### 🎨 Front-End
 Vue.js • React  
 
 ### ⚙️ Back-End
-Spring Boot • REST APIs  
+Spring Boot • APIs REST  
 
-### 🗄️ Databases
+### 🗄️ Bancos de Dados
 MySQL • MongoDB  
 
-### 🔧 Tools
+### 🔧 Ferramentas
 Git • GitHub • SCRUM • MVC
 
 ---
 
-# 🎯 Professional Goal
+# 🎯 Objetivo Profissional
 
-To grow as a **Software Engineer**, combining:
+Evoluir como **Engenheiro de Software**, combinando:
 
-- Technical depth in Back-End and Databases  
-- Strong Front-End skills  
-- Agile mindset  
-- Product-oriented thinking  
+- Profundidade técnica em Back-End e Bancos de Dados  
+- Fortes habilidades em Front-End  
+- Mindset ágil  
+- Pensamento orientado ao produto  
 
 ---
 
-# 📫 Connect With Me
+# 📫 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michelrubens)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/michelrubens)
@@ -137,4 +137,4 @@ To grow as a **Software Engineer**, combining:
 
 ---
 
-⭐ Always learning. Always building. Always improving.
+⭐ Aprendendo sempre. Construindo sempre. Melhorando sempre.
