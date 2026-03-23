@@ -102,19 +102,23 @@ Abaixo estão os projetos acadêmicos desenvolvidos em parceria com empresas rea
 # 🛠 Tech Stack
 
 ### 💻 Linguagens
-HTML • CSS • JavaScript • Java • Python • C  
+[![Linguagens](https://skillicons.dev/icons?i=html,css,js,java,python,c&perline=6)](https://skillicons.dev)
 
 ### 🎨 Front-End
-Vue.js • React  
+[![Front-End](https://skillicons.dev/icons?i=react,vue,bootstrap,materialui&perline=5)](https://skillicons.dev)
 
 ### ⚙️ Back-End
+[![Back-End](https://skillicons.dev/icons?i=spring,maven,flask&perline=5)](https://skillicons.dev)
+
 Spring Boot • APIs REST  
 
 ### 🗄️ Bancos de Dados
-MySQL • MongoDB  
+[![Bancos de Dados](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=5)](https://skillicons.dev)
 
 ### 🔧 Ferramentas
-Git • GitHub • SCRUM • MVC
+[![Ferramentas](https://skillicons.dev/icons?i=git,github&perline=5)](https://skillicons.dev)
+
+SCRUM • MVC
 
 ---
 
