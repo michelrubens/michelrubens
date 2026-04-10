@@ -7,44 +7,35 @@
 
 🚀 Apaixonado por construir soluções de software completas e escaláveis.
 
-Atualmente em busca de oportunidades como Desenvolvedor de Software Júnior / Trainee.
+Atualmente em busca de oportunidades como Desenvolvedor de Software **Júnior / Trainee**.
 
 ---
 
 ## 🧠 Sobre Mim
 
-Desenvolvedor com base sólida em bancos de dados e desenvolvimento back-end, expandindo conhecimentos para o stack completo (full-stack).
-
-Experiência na construção de sistemas de nível corporativo em parceria com empresas reais, trabalhando com metodologia **SCRUM** e entregando soluções alinhadas às necessidades de negócio.
+Desenvolvedor com base sólida em bancos de dados e back-end, expandindo para o stack completo. Possuo experiência na construção de sistemas de nível corporativo através de **projetos acadêmicos desenvolvidos em parceria direta com empresas parceiras da instituição**, atuando sob a metodologia **SCRUM**:
 
 ---
 
 ## 🔄 Experiência em Agile & Liderança
 
-Durante meus projetos acadêmicos na FATEC:
-
-- ⚙️ Trabalhei em todos os projetos utilizando **SCRUM**
-- 👨‍💼 Atuei como **Scrum Master**
-- 📌 Atuei como **Product Owner**
-- 👨‍💻 Contribuí principalmente como **Desenvolvedor Front-End**
-- 🔧 Também colaborei no Back-End e modelagem de dados
-
-Essa experiência me ajudou a desenvolver:
-
-- Habilidades de comunicação e liderança  
-- Mentalidade de visão de produto e priorização  
-- Colaboração em equipe em ambientes ágeis  
-- Responsabilidade por entregas e planejamento de sprints  
+| Papéis de Liderança | Habilidades Desenvolvidas |
+| :--- | :--- |
+| 👨‍💼 **Scrum Master** & **Product Owner** | 🗣️ Comunicação e Liderança |
+| 👨‍💻 **Dev Front-End** (React/Vue) | 🎯 Visão de Produto e Priorização |
+| 🔧 **Dev Back-End** & Modelagem | 🔄 Ciclos de Sprints e Entregas |
 
 ---
 
 # 🎓 Projetos Acadêmicos – FATEC São José dos Campos
 
-Abaixo estão os projetos acadêmicos desenvolvidos em parceria com empresas reais, aplicando a metodologia SCRUM e entregando soluções para desafios reais do mercado.
+Abaixo estão os projetos acadêmicos desenvolvidos com as empresas parceiras, aplicando a metodologia SCRUM e entregando soluções para desafios reais do mercado.
 
 ---
 
 ## 🏢 6º Semestre – Imagem (Distribuidora Oficial Esri – Brasil)
+
+<img alt="image" src="https://github.com/user-attachments/assets/1b16b7d5-3821-4165-9ba0-5b17969f9b77" align="right" width="100">
 
 🔗 [Link do Projeto](https://github.com/GroupHextech/HEXTECH-API6sem)  
 
@@ -58,6 +49,8 @@ Abaixo estão os projetos acadêmicos desenvolvidos em parceria com empresas rea
 
 ## 🏢 5º Semestre – Oracle Corporation
 
+<img alt="image" src="https://github.com/user-attachments/assets/b394070d-697f-436f-89fb-141a27de91cb" align="right" width="100" />
+
 🔗 [Link do Projeto](https://github.com/GroupHextech/HEXTECH-API5sem)  
 
 📌 Atuação como Product Owner (backlog e priorização)  
@@ -70,6 +63,8 @@ Abaixo estão os projetos acadêmicos desenvolvidos em parceria com empresas rea
 
 ## 🏢 4º Semestre – EMBRAER S.A.
 
+<img alt="image" src="https://github.com/user-attachments/assets/03ed43a4-c008-48e9-90bf-24ac616345b1" align="right" width="100" />
+
 🔗 [Link do Projeto](https://github.com/GroupHextech/HEXTECH-API4sem)  
 
 👨‍💼 Atuação como Scrum Master  
@@ -81,6 +76,8 @@ Abaixo estão os projetos acadêmicos desenvolvidos em parceria com empresas rea
 ---
 
 ## 🏢 3º Semestre – IACIT Soluções Tecnológicas S.A.
+
+<img alt="image" src="https://github.com/user-attachments/assets/8b52cf28-b4d8-42e0-9b84-bc633b373c13" align="right" width="100" />
 
 🔗 [Link do Projeto](https://github.com/GroupHextech/HEXTECH-API3sem)  
 
@@ -101,24 +98,11 @@ Abaixo estão os projetos acadêmicos desenvolvidos em parceria com empresas rea
 
 # 🛠 Tech Stack
 
-### 💻 Linguagens
-[![Linguagens](https://skillicons.dev/icons?i=html,css,js,java,python,c&perline=6)](https://skillicons.dev)
+### 💻 Desenvolvimento & Dados
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,python,c,react,vue,bootstrap,materialui,spring,maven,flask,mysql,postgres,mongodb&perline=16)](https://skillicons.dev)
 
-### 🎨 Front-End
-[![Front-End](https://skillicons.dev/icons?i=react,vue,bootstrap,materialui&perline=5)](https://skillicons.dev)
-
-### ⚙️ Back-End
-[![Back-End](https://skillicons.dev/icons?i=spring,maven,flask&perline=5)](https://skillicons.dev)
-
-Spring Boot • APIs REST  
-
-### 🗄️ Bancos de Dados
-[![Bancos de Dados](https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=5)](https://skillicons.dev)
-
-### 🔧 Ferramentas
-[![Ferramentas](https://skillicons.dev/icons?i=git,github&perline=5)](https://skillicons.dev)
-
-SCRUM • MVC
+### 🔧 Ferramentas & Metodologias
+`Git` • `GitHub` • `SCRUM` • `MVC` • `REST APIs` • `CI/CD` • `Google Cloud`
 
 ---
 
