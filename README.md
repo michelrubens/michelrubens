@@ -108,12 +108,11 @@ Abaixo estão os projetos acadêmicos desenvolvidos com as empresas parceiras, a
 
 # 🎯 Objetivo Profissional
 
-Evoluir como **Engenheiro de Software**, combinando:
+Evoluir como **Desenvolvedor de Software Full-Stack**, combinando:
 
-- Profundidade técnica em Back-End e Bancos de Dados  
-- Fortes habilidades em Front-End  
-- Mindset ágil  
-- Pensamento orientado ao produto  
+- Domínio técnico em **Modelagem de Dados e Back-End** (Spring Boot/Flask)
+- Experiência em **Front-End moderno** (React/Vue.js)
+- Mindset orientado a **Metodologias Ágeis** e visão de produto
 
 ---
 
