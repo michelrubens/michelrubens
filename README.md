@@ -7,7 +7,7 @@
 
 🚀 Apaixonado por construir soluções de software completas e escaláveis.
 
-Atualmente em busca de oportunidades como Desenvolvedor de Software **Júnior / Trainee**.
+Atualmente atuando como Desenvolvedor de Software Júnior pela Datainfo no INPE – Instituto Nacional de Pesquisas Espaciais.
 
 ---
 
