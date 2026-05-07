@@ -3,7 +3,7 @@
 🎓 Tecnólogo em Banco de Dados – FATEC São José dos Campos  
 🎓 Estudante de Desenvolvimento de Software Multiplataforma – FATEC Jacareí  
 💻 Desenvolvedor de Software Júnior | Full-Stack  
-📍 São José dos Campos - SP, Brasil  
+📍 São José dos Campos, SP - Brasil  
 
 🚀 Apaixonado por construir soluções de software completas e escaláveis.
 
