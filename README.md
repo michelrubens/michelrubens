@@ -7,7 +7,7 @@
 
 🚀 Apaixonado por construir soluções de software completas e escaláveis.
 
-Atualmente atuando como Desenvolvedor de Software Júnior pela Datainfo no INPE – Instituto Nacional de Pesquisas Espaciais.
+Atualmente atuando como Desenvolvedor de Software Júnior pela Datainfo no Instituto Nacional de Pesquisas Espaciais – INPE.
 
 ---
 
