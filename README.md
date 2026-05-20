@@ -1,7 +1,7 @@
 # 👋 Oi, eu sou o Michel!
 
 🎓 Tecnólogo em Banco de Dados – FATEC São José dos Campos  
-🎓 Estudante de Desenvolvimento de Software Multiplataforma – FATEC Jacareí  
+🎓 Graduando em Tecnologia em Desenvolvimento de Software Multiplataforma – FATEC Jacareí  
 💻 Desenvolvedor de Software Júnior | Full-Stack  
 📍 São José dos Campos, SP - Brasil  
 
