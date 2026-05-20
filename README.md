@@ -7,7 +7,7 @@
 
 🚀 Apaixonado por construir soluções de software completas e escaláveis.
 
-Atualmente atuando como Desenvolvedor de Software Júnior pela [**Datainfo**](https://www.datainfo.inf.br/) no [**INPE**](https://www.gov.br/inpe/pt-br).
+Atualmente atuando como Desenvolvedor de Software Júnior no [**INPE**](https://www.gov.br/inpe/pt-br), pela [**Datainfo**](https://www.datainfo.inf.br/).
 
 ---
 
